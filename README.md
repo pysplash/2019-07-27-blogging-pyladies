@@ -9,4 +9,4 @@ Workshop for [PyLadies Ghana](https://twitter.com/pyladiesghana)
 ## Links to additional resources
 
 - [Ladybug Podcast - Episode 101 Blogging](https://ladybug.dev/episode/blogging-101/)
-- [Hosting on GitHub Pages]()
+- [Hosting on GitHub Pages](https://pages.github.com/)
