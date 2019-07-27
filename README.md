@@ -2,7 +2,7 @@
 
 Workshop for [PyLadies Ghana](https://twitter.com/pyladiesghana)
 
-[SlideDeck]()
+[SlideDeck](2019-07-pyladies_ghana.pdf)
 
 [Download the Video](https://www.dropbox.com/s/zk4uco6e1vpurkp/pyladies-ghana-tech-blogging-replay-2019-07-27.mp4?dl=0)
 
